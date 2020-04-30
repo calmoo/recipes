@@ -2,6 +2,16 @@ Brioche burger buns
 ======
 [Reference](https://www.youtube.com/watch?v=gTGSUYMu6Ns)
 
+## Schedule
+
+Total mix to finished bread time is __4 hours 20 minutes__.
+
+- 40m mix/dough time
+- 1.5h 1st proof
+- 20m shape
+- 1.5h 2nd proof
+- 20m bake
+
 ## Ingredients 
 
 Makes 3 buns
