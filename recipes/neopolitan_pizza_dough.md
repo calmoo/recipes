@@ -1,6 +1,6 @@
 Neopolitan Pizza dough
 ======
-[Reference](https://www.seriouseats.com/recipes/2012/07/basic-neapolitan-pizza-dough-recipe.html)
+[Reference](https://www.seriouseats.com/recipes/2010/09/hacker-free-neapolitan-pizza-for-a-home-kitchen-recipe.html)
 
 ## Ingredients 
 
