@@ -14,6 +14,8 @@ Makes 2 pizza bases
 - 2.85g Sugar
 - 2.85g Instant yeast
 
+## Directions
+
 ### Forming Dough
 
 1. Combine flour, salt, yeast, and sugar in the bowl of a stand mixer fitted with a dough hook attachment. Whisk to combine. 
